@@ -1,0 +1,21 @@
+{
+    "useTabs": false,
+    "tabWidth": 4,
+    "bracketSpacing": true,
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": {
+                "singleQuote": true,
+                "semi": true,
+                "arrowParens": "always"
+            }
+        },
+        {
+            "files": "*.html",
+            "options": {
+                "singleQuote": false
+            }
+        }
+    ]
+}

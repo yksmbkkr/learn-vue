@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "prettier.requireConfig": true,
+        "liveServer.settings.port": 8050,
+        "liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+    }
+}
